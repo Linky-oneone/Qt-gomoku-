@@ -1,2 +1,2 @@
-# space-of-LPF
+# Gomoku in Qt
 Just for fun and after-school recording.
