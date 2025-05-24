@@ -1,4 +1,5 @@
 # Gomoku in Qt
+this is a school work for the lesson of njupt programming
  若想查看源代码，若用户配备“Qt Creator”编译器，选中“Gomoku”（格式为“Qt project file”）打开，点击“配置页面”下的“Configure Project”选项，可直接打开工程界面，随后用户可从左侧“项目”目录中打开“Gomoku”的下拉选项，可较为方便的查看该程序的所有源代码以及资源文件。
       若用户不含“Qt Creator”编译器，打开所有后缀为“.cpp”“.h”的文件，此类文件可使用所有市面上主流c/cpp编译器打开。
 
