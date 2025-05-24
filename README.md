@@ -1,6 +1,6 @@
 # Gomoku in Qt
- 若想查看源代码，若用户配备“Qt Creator”编译器，则可以打开“src”文件中的“相关源代码”，选中“Gomoku”（格式为“Qt project file”）打开，点击“配置页面”下的“Configure Project”选项，可直接打开工程界面，随后用户可从左侧“项目”目录中打开“Gomoku”的下拉选项，可较为方便的查看该程序的所有源代码以及资源文件。
-      若用户不含“Qt Creator”编译器，则可以从“src”文件中的“相关源代码”文件中，打开所有后缀为“.cpp”“.h”的文件，此类文件可使用所有市面上主流c/cpp编译器打开。
+ 若想查看源代码，若用户配备“Qt Creator”编译器，选中“Gomoku”（格式为“Qt project file”）打开，点击“配置页面”下的“Configure Project”选项，可直接打开工程界面，随后用户可从左侧“项目”目录中打开“Gomoku”的下拉选项，可较为方便的查看该程序的所有源代码以及资源文件。
+      若用户不含“Qt Creator”编译器，打开所有后缀为“.cpp”“.h”的文件，此类文件可使用所有市面上主流c/cpp编译器打开。
 
 注：如用户用“Qt Creator”编译器打开“Gomoku”（格式为“Qt project file”）工程文件有一定概率会弹出“No valid settings file could be found.”提示，此时用户直接点击“确定”即可跳过，此弹窗不影响后续的程序使用。
 
